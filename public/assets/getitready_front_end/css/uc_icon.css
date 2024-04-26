@@ -1,0 +1,294 @@
+/* 01 */
+.uci_backyard:checked::after {
+    background: url(../../frontend/uc_icon/uci_backyard.png) no-repeat top;
+}
+
+.uci_backyard::after {
+    background: url(../../frontend/uc_icon/uci_backyard.png) no-repeat top;
+}
+
+/* 02 */
+.uci_balustrade:checked::after {
+    background: url(../../frontend/uc_icon/uci_balustrade.png) no-repeat top;
+}
+
+.uci_balustrade::after {
+    background: url(../../frontend/uc_icon/uci_balustrade.png) no-repeat top;
+}
+
+/* 03 */
+.uci_bathroom:checked::after {
+    background: url(../../frontend/uc_icon/uci_bathroom.png) no-repeat top;
+}
+
+.uci_bathroom::after {
+    background: url(../../frontend/uc_icon/uci_bathroom.png) no-repeat top;
+}
+
+/* 04 */
+.uci_bedmaking:checked::after {
+    background: url(../../frontend/uc_icon/uci_bedmaking.png) no-repeat top;
+}
+
+.uci_bedmaking::after {
+    background: url(../../frontend/uc_icon/uci_bedmaking.png) no-repeat top;
+}
+
+/* 05 */
+.uci_carr_pick_drop:checked::after {
+    background: url(../../frontend/uc_icon/uci_carr_pick_drop.png) no-repeat top;
+}
+
+.uci_carr_pick_drop::after {
+    background: url(../../frontend/uc_icon/uci_carr_pick_drop.png) no-repeat top;
+}
+
+/* 06 */
+.uci_dining_area:checked::after {
+    background: url(../../frontend/uc_icon/uci_dining_area.png) no-repeat top;
+}
+
+.uci_dining_area::after {
+    background: url(../../frontend/uc_icon/uci_dining_area.png) no-repeat top;
+}
+
+/* 07 */
+.uci_dish_washing:checked::after {
+    background: url(../../frontend/uc_icon/uci_dish_washing.png) no-repeat top;
+}
+
+.uci_dish_washing::after {
+    background: url(../../frontend/uc_icon/uci_dish_washing.png) no-repeat top;
+}
+
+/* 08*/
+.uci_downpipe_flushing:checked::after {
+    background: url(../../frontend/uc_icon/uci_downpipe_flushing.png) no-repeat top;
+}
+
+.uci_downpipe_flushing::after {
+    background: url(../../frontend/uc_icon/uci_downpipe_flushing.png) no-repeat top;
+}
+
+/* 09 */
+.uci_dry_cleaner:checked::after {
+    background: url(../../frontend/uc_icon/uci_dry_cleaner.png) no-repeat top;
+}
+
+.uci_dry_cleaner::after {
+    background: url(../../frontend/uc_icon/uci_dry_cleaner.png) no-repeat top;
+}
+
+/* 10 */
+.uci_fixed_gutter_guard:checked::after {
+    background: url(../../frontend/uc_icon/uci_fixed_gutter_guard.png) no-repeat top;
+}
+
+.uci_fixed_gutter_guard::after {
+    background: url(../../frontend/uc_icon/uci_fixed_gutter_guard.png) no-repeat top;
+}
+
+/* 11 */
+.uci_glass_door:checked::after {
+    background: url(../../frontend/uc_icon/uci_glass_door.png) no-repeat top;
+}
+
+.uci_glass_door::after {
+    background: url(../../frontend/uc_icon/uci_glass_door.png) no-repeat top;
+}
+
+/* 12 */
+.uci_guest_drop_off:checked::after {
+    background: url(../../frontend/uc_icon/uci_guest_drop_off.png) no-repeat top;
+}
+
+.uci_guest_drop_off::after {
+    background: url(../../frontend/uc_icon/uci_guest_drop_off.png) no-repeat top;
+}
+
+/* 13 */
+.uci_guest_pivk_up:checked::after {
+    background: url(../../frontend/uc_icon/uci_guest_pivk_up.png) no-repeat top;
+}
+
+.uci_guest_pivk_up::after {
+    background: url(../../frontend/uc_icon/uci_guest_pivk_up.png) no-repeat top;
+}
+
+/* 14 */
+.uci_gutters_before_after:checked::after {
+    background: url(../../frontend/uc_icon/uci_gutters_before_after.png) no-repeat top;
+}
+
+.uci_gutters_before_after::after {
+    background: url(../../frontend/uc_icon/uci_gutters_before_after.png) no-repeat top;
+}
+
+/* 15 */
+.uci_Install_gutter_guard:checked::after {
+    background: url(../../frontend/uc_icon/uci_Install_gutter_guard.png) no-repeat top;
+}
+
+.uci_Install_gutter_guard::after {
+    background: url(../../frontend/uc_icon/uci_Install_gutter_guard.png) no-repeat top;
+}
+
+/* 16 */
+.uci_kitchen:checked::after {
+    background: url(../../frontend/uc_icon/uci_kitchen.png) no-repeat top;
+}
+
+.uci_kitchen::after {
+    background: url(../../frontend/uc_icon/uci_kitchen.png) no-repeat top;
+}
+
+/* 17 */
+.uci_laundry:checked::after {
+    background: url(../../frontend/uc_icon/uci_laundry.png) no-repeat top;
+}
+
+.uci_laundry::after {
+    background: url(../../frontend/uc_icon/uci_laundry.png) no-repeat top;
+}
+
+/* 18 */
+.uci_pergola_gutter:checked::after {
+    background: url(../../frontend/uc_icon/uci_pergola_gutter.png) no-repeat top;
+}
+
+.uci_pergola_gutter::after {
+    background: url(../../frontend/uc_icon/uci_pergola_gutter.png) no-repeat top;
+}
+
+/* 19*/
+.uci_pets:checked::after {
+    background: url(../../frontend/uc_icon/uci_pets.png) no-repeat top;
+}
+
+.uci_pets::after {
+    background: url(../../frontend/uc_icon/uci_pets.png) no-repeat top;
+}
+
+/* 20 */
+.uci_sanding:checked::after {
+    background: url(../../frontend/uc_icon/uci_sanding.png) no-repeat top;
+}
+
+.uci_sanding::after {
+    background: url(../../frontend/uc_icon/uci_sanding.png) no-repeat top;
+}
+
+/* 21 */
+.uci_sealing:checked::after {
+    background: url(../../frontend/uc_icon/uci_sealing.png) no-repeat top;
+}
+
+.uci_sealing::after {
+    background: url(../../frontend/uc_icon/uci_sealing.png) no-repeat top;
+}
+
+/* 22 */
+.uci_shade_cleaning:checked::after {
+    background: url(../../frontend/uc_icon/uci_shade_cleaning.png) no-repeat top;
+}
+
+.uci_shade_cleaning::after {
+    background: url(../../frontend/uc_icon/uci_shade_cleaning.png) no-repeat top;
+}
+
+/* 23 */
+.uci_shampooer:checked::after {
+    background: url(../../frontend/uc_icon/uci_shampooer.png) no-repeat top;
+}
+
+.uci_shampooer::after {
+    background: url(../../frontend/uc_icon/uci_shampooer.png) no-repeat top;
+}
+
+/* 24 */
+.uci_shoping:checked::after {
+    background: url(../../frontend/uc_icon/uci_shoping.png) no-repeat top;
+}
+
+.uci_shoping::after {
+    background: url(../../frontend/uc_icon/uci_shoping.png) no-repeat top;
+}
+
+/* 25 */
+.uci_stairs:checked::after {
+    background: url(../../frontend/uc_icon/uci_stairs.png) no-repeat top;
+}
+
+.uci_stairs::after {
+    background: url(../../frontend/uc_icon/uci_stairs.png) no-repeat top;
+}
+
+/* 26 */
+.uci_steam_cleaner:checked::after {
+    background: url(../../frontend/uc_icon/uci_steam_cleaner.png) no-repeat top;
+}
+
+.uci_steam_cleaner::after {
+    background: url(../../frontend/uc_icon/uci_steam_cleaner.png) no-repeat top;
+}
+
+/* 27 */
+.uci_window_cleaning:checked::after {
+    background: url(../../frontend/uc_icon/uci_window_cleaning.png) no-repeat top;
+}
+
+.uci_window_cleaning::after {
+    background: url(../../frontend/uc_icon/uci_window_cleaning.png) no-repeat top;
+}
+
+/* 28 */
+.uci_door_security_screen:checked::after {
+    background: url(../../frontend/uc_icon/uci_door_security_screen.png) no-repeat top;
+}
+
+.uci_door_security_screen::after {
+    background: url(../../frontend/uc_icon/uci_door_security_screen.png) no-repeat top;
+}
+
+/* 29 */
+.uci_window_security_screen:checked::after {
+    background: url(../../frontend/uc_icon/uci_window_security_screen.png) no-repeat top;
+}
+
+.uci_window_security_screen::after {
+    background: url(../../frontend/uc_icon/uci_window_security_screen.png) no-repeat top;
+}
+/* 30 */
+
+.uci_roof_report:checked::after {
+    background: url(../../frontend/uc_icon/uci_roof_report.png) no-repeat top;
+}
+.uci_roof_report::after {
+    background: url(../../frontend/uc_icon/uci_roof_report.png) no-repeat top;
+}
+
+/* 31 */
+.uci_lichen_growth:checked::after {
+    background: url(../../frontend/uc_icon/uci_lichen_growth.png) no-repeat top;
+}
+
+.uci_lichen_growth::after {
+    background: url(../../frontend/uc_icon/uci_lichen_growth.png) no-repeat top;
+}
+
+/* 32 */
+.uci_wall_washing:checked::after {
+    background: url(../../frontend/uc_icon/uci_wall_washing.png) no-repeat top;
+}
+
+.uci_wall_washing::after {
+    background: url(../../frontend/uc_icon/uci_wall_washing.png) no-repeat top;
+}
+/* 33 */
+
+
+
+
+
+
+

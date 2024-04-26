@@ -1,0 +1,16 @@
+[04-Sep-2021 18:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/poneraj4/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/poneraj4/public_html/config/services.php on line 18
+[04-Sep-2021 18:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/poneraj4/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/poneraj4/public_html/config/mail.php on line 19
+[04-Sep-2021 18:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/poneraj4/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/poneraj4/public_html/config/filesystems.php on line 16
+[04-Sep-2021 18:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/poneraj4/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/poneraj4/public_html/config/app.php on line 16
